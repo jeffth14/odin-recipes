@@ -1,7 +1,7 @@
 # odin-recipes
 This exercise is a part of the Odin Project fundamentals course. 
 I have demonstrated basic HTML and CSS fundamentals, such as:
-<!---
+
 HTML Fundamentals:
 Structuring content with HTML elements like <html>, <head>, and <body>.
 Using semantic tags such as <nav>, <div>, <ul>, <li>, <figure>, and <figcaption>.
@@ -15,4 +15,4 @@ Styling navigation bars with hover effects.
 Using Flexbox for layout management.
 Setting global box-sizing with * { box-sizing: border-box; }.
 
---->
+
